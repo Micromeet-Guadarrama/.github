@@ -8,7 +8,7 @@ Presentaciones realizadas:
 - [Present y futuro de las microondas de radioaficionadas. EA4GPZ](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/2-PRESENTE%20Y%20FUTURO%20DE%20LAS%20MICROONDAS%20DE%20RADIOAFICIONADO_EA4GPZ.pdf)
 - [Amplificadores parametricos. EA1IYR](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/3-AMPLIFICADORES%20PARAM%C3%89TRICOS_EA1IYR.pdf)
 - [Los NesTransvertes, microondas instantaneas. CT1DMK](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/4-LOS%20NESTRANSVERTERS-MICROONDAS%20INSTANT%C3%81NEAS_CT1DMK.pdf)
-  - [Esquemas](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/NESTRANSVERTER/NESTRANSVERTER_LC.pdf)
+  - [Esquemas](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/NESTRANSVERTER/NESTRANSVERTER_LC_v1.1.pdf)
   - [Lista de componentes](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/NESTRANSVERTER/NESTRANSVERTERE10GHz_BOM_v1.pdf)
   - [Código arduino](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/NESTRANSVERTER/lo44_REV1.ino)
   - [Galeria imagenes de NesVerter](https://micromeet-guadarrama.github.io/Year2025/)
