@@ -5,7 +5,17 @@ Micomeet es una reunión anual de los Entusiatas de las Microondas que se celebr
 
 ## Año 2026
 Presentaciones realizadas:
-proximamente.
+- [20 AÑOS DE ESPACIO PROFUNDO EN CEBREROS](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/1.-20%20YEARS%20OF%20DEEP%20SPACE%20IN%20CREBREROS.pdf)
+- [MEDICIONES Y DEMOSTRASCIONES uW’s]
+- [BALIZAS Q65 para 10, 24 y 47 GHz]
+- [HAMTV: RECIBIR Y COMPARTIR DATV DESDE LA ISS]
+- [RADAR FMCW ESTILO NESVERTER. Parte 0]
+- [METROLOGÍA AMATEUR SIN QUEMARSE]
+- [TERAHERTCIOS]
+
+
+<img width="1181" height="1575" alt="micromeet_programa_final_2026_ES" src="https://github.com/user-attachments/assets/bf3bfb70-bb49-4b60-b06e-7e243e4ec786" />
+
 
 ## Año 2025
 Presentaciones realizadas:
