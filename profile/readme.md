@@ -2,6 +2,11 @@
 ![image](https://github.com/user-attachments/assets/d125a80d-c365-4cfe-a556-2694d67351dc)
 
 Micomeet es una reunión anual de los Entusiatas de las Microondas que se celebra en la ciudad de Guadarrama (Madrid) con la colaboración de la Sección Comarcal URE Sierra de Guadarrama.
+
+## Año 2026
+Presentaciones realizadas:
+proximamente.
+
 ## Año 2025
 Presentaciones realizadas:
 - [Las nuevas telecomunicaciones espaciales para colonizar la luna.Valeriano Claros](https://github.com/Micromeet-Guadarrama/Year2025/blob/main/docs/1-LAS%20NUEVAS%20TELECOMUNICACIONES%20ESPACIALES%20PARA%20COLONIZAR%20LA%20LUNA_Valeriano%20Claros.pdf)
