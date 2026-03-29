@@ -10,7 +10,7 @@ Presentaciones realizadas:
 - [HAMTV: RECIBIR Y COMPARTIR DATV DESDE LA ISS](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/docs/3.-HAMTV%20RECIBIR%20Y%20COMPARTIR%20DATV%20DESDE%20LA%20ISS_EA2ARD.pdf)
 - [RADAR FMCW ESTILO NESVERTER. Parte 0](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/docs/4.-RADAR%20FMCW%20ESTILO%20NESVERTER.%20Parte%200_EA4GPZ.pdf)
 - [METROLOGÍA AMATEUR SIN QUEMARSE](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/docs/5.-METROLOGIA%20AMATEUR_EB3FRN.pdf)
-- [TERAHERTCIOS]
+- [TERAHERTCIOS](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/docs/6.-%20TERAHERTCIOS_CT1DMK.pdf)
 - [MICROMEET PRESENTA Y FUTURO](https://github.com/Micromeet-Guadarrama/Year2026/blob/main/docs/PRESENTE%20Y%20FUTURO%20DEL%20MICROMEET_EA4BFK.pdf)
 
 <img width="1181" height="1575" alt="micromeet_programa_final_2026_ES" src="https://github.com/user-attachments/assets/bf3bfb70-bb49-4b60-b06e-7e243e4ec786" />
